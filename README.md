@@ -81,6 +81,7 @@ plt.show()
 ## Data describe:
 ![274235595-33133b16-e895-419f-a38e-6c2616f93dd6](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex06/assets/119393589/951a6b04-24ba-4297-8169-3844da200641)
 
+
 ## Before transformation:
 ![274235740-8e207720-fa46-4a0d-8d54-9dcd99e32c95](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex06/assets/119393589/7eab3ff5-e852-4573-873a-94d97b9b3fe9)
 ![274235885-3dd44293-5295-4ca8-aea0-1cd36a011aab](https://github.com/vishnupriyaramesh17/ODD2023-Datascience-Ex06/assets/119393589/7314e39f-db22-478b-ac86-7afab1d5f016)
